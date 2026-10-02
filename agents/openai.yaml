@@ -1,0 +1,11 @@
+interface:
+  display_name: Task Quality Control
+  short_description: Adds a compact quality matrix and self-assessment after completed
+    tasks.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
